@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Machine learning Specialization with Deeplearning.ai**
 
-💬 Ask me about **Python, ML Algorithms and concepts ... or anything [here](https://github.com/Yoyobun1/Yoyobun1/issues)**
+💬 Ask me about **Python, ML Algorithms and concepts ... or anything [here](https://github.com/MarcGeorgeML/MarcGeorgeML/issues)**
 
 ⚡ Fun facts about music:
 - Loud music can make you drink more quickly.
@@ -55,8 +55,8 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yoyobun1&radius=16&theme=github-dark&area=true&order=5" height="250" alt="activity-graph graph" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Yoyobun1/Yoyobun1/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcGeorgeML&radius=16&theme=github-dark&area=true&order=5" height="250" alt="activity-graph graph" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MarcGeorgeML/MarcGeorgeML/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <hr/>
@@ -64,11 +64,11 @@
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yoyobun1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yoyobun1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcGeorgeML&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcGeorgeML&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Yoyobun1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 <div align="center">
-  <img src="https://github.com/Yoyobun1/Yoyobun1/blob/main/assets/meme.jpg" alt="Meme Image" style="width: 600px; height: auto;"/>
+  <img src="https://github.com/MarcGeorgeML/MarcGeorgeML/blob/main/assets/meme.jpg" alt="Meme Image" style="width: 600px; height: auto;"/>
 </div>
